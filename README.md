@@ -7,8 +7,10 @@ Unique features like Chat Spammer build directly in the script to give you a fla
 ```lua
 **Features:**
 1. Combat
-2. Render - FOV
-3. Player - Walk Speed - Jump Height - Hip Height - Freeze - Sit - Anti-AFK - Reset
+2. Render
+3. Player
+4. World
+5. Chat Spammer
 More to come!
 ```
 
