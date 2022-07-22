@@ -3,6 +3,15 @@
 
 **FlightWare**  is a multi-functional open source script, built with Orion, with universal functions built in, with 4 other games.
 Unique features like Chat Spammer build directly in the script to give you a flawless, all-in-one experience.
+
+```lua
+**Features:**
+1. Combat
+2. Render - FOV
+3. Player - Walk Speed - Jump Height - Hip Height - Freeze - Sit - Anti-AFK - Reset
+More to come!
+```
+
 ```lua
 **Games:**
 1. Mining Clicker
